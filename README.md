@@ -59,5 +59,5 @@ Aplikasi ini menggunakan OpenWeatherMap API. Untuk menggunakannya, ikuti langkah
 
 ## 👤 Penulis
 
-Nama Kamu – [GitHub](https://github.com/lintingggg) | [LinkedIn](https://linkedin.com/in/muhammad_iqbal_faza)
+Muhammad Iqbal Faza – [GitHub](https://github.com/lintingggg) | [LinkedIn](https://linkedin.com/in/muhammad_iqbal_faza)
 
