@@ -54,7 +54,7 @@ Aplikasi ini menggunakan OpenWeatherMap API. Untuk menggunakannya, ikuti langkah
 ## 📸 Screenshot
 
 
-![Beranda](./assets/WhatsApp Image 2025-03-07 at 15.18.43.jpeg)
+![Beranda](./assets/img/WhatsApp%20Image%202025-03-07%20at%2015.18.43.jpeg)
 
 
 ## 👤 Penulis
